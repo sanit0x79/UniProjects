@@ -1,0 +1,8 @@
+def flipside(s):
+    x = len(s) // 2
+    return s[x:] + s[:x]
+
+assert flipside('huiswerk') == 'werkhuis'
+assert flipsde('popster') == 'sterpop'
+
+print(" toplap ~", flipside('laptop'))

@@ -1,0 +1,15 @@
+C:\Users\hiima\Desktop\School\UniProjects\UniProjects\csharpProjects\AlgemeneHeffingsKorting\AlgemeneHeffingsKorting\bin\Debug\net7.0\AlgemeneHeffingsKorting.exe
+C:\Users\hiima\Desktop\School\UniProjects\UniProjects\csharpProjects\AlgemeneHeffingsKorting\AlgemeneHeffingsKorting\bin\Debug\net7.0\AlgemeneHeffingsKorting.deps.json
+C:\Users\hiima\Desktop\School\UniProjects\UniProjects\csharpProjects\AlgemeneHeffingsKorting\AlgemeneHeffingsKorting\bin\Debug\net7.0\AlgemeneHeffingsKorting.runtimeconfig.json
+C:\Users\hiima\Desktop\School\UniProjects\UniProjects\csharpProjects\AlgemeneHeffingsKorting\AlgemeneHeffingsKorting\bin\Debug\net7.0\AlgemeneHeffingsKorting.dll
+C:\Users\hiima\Desktop\School\UniProjects\UniProjects\csharpProjects\AlgemeneHeffingsKorting\AlgemeneHeffingsKorting\bin\Debug\net7.0\AlgemeneHeffingsKorting.pdb
+C:\Users\hiima\Desktop\School\UniProjects\UniProjects\csharpProjects\AlgemeneHeffingsKorting\AlgemeneHeffingsKorting\obj\Debug\net7.0\AlgemeneHeffingsKorting.csproj.AssemblyReference.cache
+C:\Users\hiima\Desktop\School\UniProjects\UniProjects\csharpProjects\AlgemeneHeffingsKorting\AlgemeneHeffingsKorting\obj\Debug\net7.0\AlgemeneHeffingsKorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hiima\Desktop\School\UniProjects\UniProjects\csharpProjects\AlgemeneHeffingsKorting\AlgemeneHeffingsKorting\obj\Debug\net7.0\AlgemeneHeffingsKorting.AssemblyInfoInputs.cache
+C:\Users\hiima\Desktop\School\UniProjects\UniProjects\csharpProjects\AlgemeneHeffingsKorting\AlgemeneHeffingsKorting\obj\Debug\net7.0\AlgemeneHeffingsKorting.AssemblyInfo.cs
+C:\Users\hiima\Desktop\School\UniProjects\UniProjects\csharpProjects\AlgemeneHeffingsKorting\AlgemeneHeffingsKorting\obj\Debug\net7.0\AlgemeneHeffingsKorting.csproj.CoreCompileInputs.cache
+C:\Users\hiima\Desktop\School\UniProjects\UniProjects\csharpProjects\AlgemeneHeffingsKorting\AlgemeneHeffingsKorting\obj\Debug\net7.0\AlgemeneHeffingsKorting.dll
+C:\Users\hiima\Desktop\School\UniProjects\UniProjects\csharpProjects\AlgemeneHeffingsKorting\AlgemeneHeffingsKorting\obj\Debug\net7.0\refint\AlgemeneHeffingsKorting.dll
+C:\Users\hiima\Desktop\School\UniProjects\UniProjects\csharpProjects\AlgemeneHeffingsKorting\AlgemeneHeffingsKorting\obj\Debug\net7.0\AlgemeneHeffingsKorting.pdb
+C:\Users\hiima\Desktop\School\UniProjects\UniProjects\csharpProjects\AlgemeneHeffingsKorting\AlgemeneHeffingsKorting\obj\Debug\net7.0\AlgemeneHeffingsKorting.genruntimeconfig.cache
+C:\Users\hiima\Desktop\School\UniProjects\UniProjects\csharpProjects\AlgemeneHeffingsKorting\AlgemeneHeffingsKorting\obj\Debug\net7.0\ref\AlgemeneHeffingsKorting.dll
