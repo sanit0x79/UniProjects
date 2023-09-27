@@ -22,5 +22,3 @@ else:
                 print("Jij wint!")
 if comp == user:
     print("Gelijkspel...")
-elif: comp == "steen" or comp == "papier":
-    
