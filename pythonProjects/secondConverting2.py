@@ -1,6 +1,6 @@
 seconds = int(input("How many seconds do you want to convert: "))
               
-def amountOfSeconds(seconds):
+def secondsToTime(seconds):
     minutes, seconds = divmod(seconds,60)
     hours, minutes = divmod(minutes,60)
     days, hours = divmod(hours,24)
