@@ -1,4 +1,4 @@
-def amountOfSeconds(seconds):
+def secondsToTime(seconds):
     minutes = seconds // 60
     hours = seconds // 3600
     days = seconds // 86400
@@ -6,9 +6,9 @@ def amountOfSeconds(seconds):
     seconds %= 60
     minutes %= 60
     hours %= 24
-    #return("%d Days : %02d Hours : %02d Minutes : %02d Seconds " % (days, hours, minutes, seconds))
-    return[days, hours, minutes, seconds]
-print(amountOfSeconds(60))
+    return("%d Days : %02d Hours : %02d Minutes : %02d Seconds " % (days, hours, minutes, seconds))
+    #return[days, hours, minutes, seconds]
+print(secondsToTime(60))
 
 """  
 seconds = 60
