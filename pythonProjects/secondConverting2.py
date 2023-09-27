@@ -6,4 +6,4 @@ def secondsToTime(seconds):
     days, hours = divmod(hours,24)
     return ("%d Days, %02d Hours, %02d Minutes, %02d seconds" % (days, hours, minutes, seconds))
 
-print(amountOfSeconds(seconds))
+print(secondsToTime(seconds))
