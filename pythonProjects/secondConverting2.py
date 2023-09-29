@@ -1,3 +1,5 @@
+# Write a program that converts seconds in to days, hours, minutes and seconds respectively in either a list or a string
+
 seconds = int(input("How many seconds do you want to convert: "))
               
 def secondsToTime(seconds):
@@ -7,3 +9,4 @@ def secondsToTime(seconds):
     return ("%d Days, %02d Hours, %02d Minutes, %02d seconds" % (days, hours, minutes, seconds))
 
 print(secondsToTime(seconds))
+
