@@ -8,7 +8,7 @@ def secondsToTime(seconds):
     hours %= 24
     return("%d Days : %02d Hours : %02d Minutes : %02d Seconds " % (days, hours, minutes, seconds))
     #return[days, hours, minutes, seconds]
-print(secondsToTime(60))
+print(secondsToTime(100000))
 
 """  
 seconds = 60
