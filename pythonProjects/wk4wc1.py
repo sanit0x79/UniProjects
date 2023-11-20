@@ -7,12 +7,12 @@
 # print(driehoek(5))
 
 
-# def fac(n):
+# def factorial(n):
     # if n == 0:
-        # return 1
-    # else:
-        # return n * fac(n-1)
-# print(fac(5))
+         # return 1
+     # else:
+         # return n * factorial(n-1)
+# print(factorial(5))
 
 # def aantalPs(s):
     # if not s:
@@ -30,3 +30,4 @@ def aantalPs(s):
         aantal = 0
     return aantal + aantalPs(s[1:])
 print(aantalPs("PannenkoekenPan"))
+    

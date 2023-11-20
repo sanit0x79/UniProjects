@@ -33,7 +33,7 @@ ORDER BY verkoopprijs ASC;
 SELECT cast(besteldatum as varchar(12)) as besteldatum, wcode
 FROM bestelling
 WHERE wcode = 'KE23'
--- OF
+-- OR
 SELECT besteldatum
 FROM winkel w
 JOIN bestelling b ON w.wcode = b.wcode
