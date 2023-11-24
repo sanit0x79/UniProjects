@@ -1,10 +1,6 @@
-temp = -10.0
-if temp <= 0.0:
-    print("Brrr")
-elif temp > 10.0:
-    print("Koel")
-elif temp > 20.0:
-    print("Warm")
-else:
-    print("Heet!")
-    
+numbers = [7, 8, 7, 6, 5, 3]
+
+passingGrade = [grade for grade in numbers if grade >= 6] # problem a
+average = sum(passingGrade) / len(passingGrade) # problem b
+
+print(average)

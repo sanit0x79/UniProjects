@@ -1,24 +1,22 @@
 from random import choice
 
-user = input("Jouw keus? ")
-comp = choice(["steen", "papier", "schaar"])
+def is_win(player, opponent):
+    if (player == 'rock' and opponent == 'scissors') or (player == 'paper' and opponent == 'rock') or (player == 'scissors' and opponent == 'paper'):
+        return True
+    return False
 
-print(user)
-print(comp)
+def play():
+    user = input("Choose your weapon: 'rock', 'paper', or 'scissors': ")
+    user = user.lower()
+    computer = choice(['rock', 'paper', 'scissors'])
 
-if comp == user:
-    print("Gelijkspel... ")
-else:
-    if comp == "steen":
-        if user == "schaar":
-            print("Ik win!")
-        else:
-            print("Jij Wint!")
-    else:
-        if comp == "papier":
-            if user == "steen":
-                print("Ik Win!")
-            else:
-                print("Jij wint!")
-if comp == user:
-    print("Gelijkspel...")
+    if user == computer:
+        return 'It\'s a tie!'
+
+    if is_win(user, computer):
+        return 'You won!'
+
+    return 'You lost!'
+
+
+play()
