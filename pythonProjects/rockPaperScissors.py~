@@ -1,7 +1,0 @@
-speler1 = (input("rock, paper of scissor "))
-speler2 = (input("rock, paper of scissor "))
-
-if speler1 == speler2:
-    print("Tie")
-elif speler1 == ("rock") and speler2 == ("scissor"):
-    print("Speler 1 
