@@ -104,7 +104,7 @@ Zo ja, roep dan starts_with nogmaals met g en s zonder eerste letter en retourne
 
 # opgave 6-b
 
-def start_with(g, s):
+def starts_with(g, s):
     if not g:
         return True
     if not s:
