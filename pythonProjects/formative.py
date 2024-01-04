@@ -45,7 +45,8 @@
 
 
 def remove_double(L):
-"""
+
+    """
 Verwijdert dubbele cijfers uit een lijst terwijl de oorspronkelijke volgorde hetzelfde blijft
 
 Parameters: 
@@ -95,12 +96,12 @@ def all_even(L):
 
 # opgave 6
 
-Controleer op de basecase lengte van s gelijk aan 0. in dat geval retourneer resultaat True
-Controleer op de tweede basecase lengte van g gelijk aan 0. In dat geval retourneer resultaat True
+# Controleer op de basecase lengte van s gelijk aan 0. in dat geval retourneer resultaat True
+# Controleer op de tweede basecase lengte van g gelijk aan 0. In dat geval retourneer resultaat True
 
-In de recursive case: controleer of de eerste letters van G en s overeen komen.
-Zo nee, retourneer dan False.
-Zo ja, roep dan starts_with nogmaals met g en s zonder eerste letter en retourneer dat resultaat
+# In de recursive case: controleer of de eerste letters van G en s overeen komen.
+# Zo nee, retourneer dan False.
+# Zo ja, roep dan starts_with nogmaals met g en s zonder eerste letter en retourneer dat resultaat
 
 # opgave 6-b
 
