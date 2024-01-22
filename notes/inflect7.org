@@ -1,0 +1,11 @@
+#+title: Inflect7
+
+* Reconnaissance
+- eventueel in combinatie op zoek gaan naar bruikbare gegevens van de target
+* OSINT
+- Open source intelligence
+* Enumeration
+-
+* PoC
+- Proof of Concept
+*

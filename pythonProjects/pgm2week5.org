@@ -1,0 +1,10 @@
+#+title: Pgm2week5
+
+
+
+* API's
+Application Programming Interface
+- Computing interface that defines interactions between software
+
+* Tuples
+- Are immutable
