@@ -1,5 +1,5 @@
 # A Schrijf de functie transform(c) die een enkele letter c accepteerd en transformeert naar zijn leet waarde
-# Write a funciton transform(c) that transforms a singular letter c to its l33t equivalent
+# Write a function transform(c) that transforms a singular letter c to its l33t equivalent
 def transform (c):
     if c == "a":
         return "4"
