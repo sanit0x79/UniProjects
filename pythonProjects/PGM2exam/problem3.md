@@ -1,0 +1,2 @@
+## 0/10
+Schrijf een while loop (geen functie) die om integers vraagt van de gebruiker. De while loop stopt als de som van de input meer dan 50 is. Het programma print dan het resultaat van alle getallen bij elkaar opgeteld en hoeveel getallen bij elkaar zijn opgeteld.

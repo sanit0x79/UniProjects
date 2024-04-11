@@ -1,0 +1,2 @@
+## 9/15
+Schrijf de functie half_m_table(size) die een integer size als parameter accepteert en de helft van een vermenigvuldigingstabel print. De integer size geef aan hoeveel regels van de tabel geprint moet worden.
