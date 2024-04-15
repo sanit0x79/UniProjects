@@ -20,3 +20,4 @@ for x in L:
         euro += [[x[0], x[1] * 1.1, "euro"]]
 
 print(euro)
+

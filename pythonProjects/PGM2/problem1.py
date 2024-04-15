@@ -13,3 +13,6 @@ HW = []
 for x in L:
     if x[2] == True:
         HW += [x[0], x[1]+0.5]
+
+
+print(HW)
