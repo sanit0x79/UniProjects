@@ -26,8 +26,6 @@ Here are some of the current projects and files in this repository:
 - **Description**: Only a few SQL exercises because I didn't have more than 1 module in databases.
 - **Folder**: `sqlProjects`
 
-(Add more current projects and files as needed)
-
 ## Technologies Used
 - Python
 - SQL
