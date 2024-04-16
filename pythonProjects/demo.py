@@ -42,7 +42,7 @@ def aantalKlinkers(s):
     return aantalKlinkers
 print(aantalKlinkers('Ierland'))
 
-def fac_loop(n):
+def facLoop(n):
 
     # 1. Resultaat-variabelen maken
     uitkomst = 1
@@ -52,4 +52,4 @@ def fac_loop(n):
     # 3. Return
     return uitkomst
     
-print (fac_loop(5))
+print (facLoop(5))

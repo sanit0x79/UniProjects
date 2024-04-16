@@ -1,5 +1,5 @@
 L = [1, 42, 2, 3, 42, 5]
-
+f
 # recursive function
 
 def count_42(l):
@@ -30,7 +30,7 @@ assert total == 2
 
 # for
 
-def count_42_if(L):
+def count_42_i(L):
     total = 0
 
     for x in L:
