@@ -15,8 +15,8 @@ def play():
 
     if is_win(user, computer):
         return 'You won!'
-
+    
     return 'You lost!'
 
 
-play()
+print(play())
