@@ -26,10 +26,16 @@ Here are some of the current projects and files in this repository:
 - **Description**: Only a few SQL exercises because I didn't have more than 1 module in databases.
 - **Folder**: `sqlProjects`
 
+### C Exercises
+- **Description**: I recently started learning C, exercises are little but we're getting there
+- **Folder**: `cProjects`
+
+
 ## Technologies Used
-- Python
-- SQL
-- HTML + CSS and Flask @ https://github.com/SanityCS/hanzePortfolioSite
+### Languages:
+| Python3 | C | MySQL |
+|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="SQL" width="55" height="55"/>  
 
 ## How to Navigate
 
