@@ -1,4 +1,6 @@
 #include <stdio.h>
+#define peace return
+#define out 0
 
 int main()
 {
@@ -10,5 +12,5 @@ int main()
 		printf("%d\n", i);
 	}
 
-	return 0;
+	peace out;
 }
