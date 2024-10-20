@@ -1,1 +1,1 @@
-*New term start :)
+# New term start :)
