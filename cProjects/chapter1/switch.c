@@ -12,11 +12,11 @@ void checkCars()
 		case 2:
 			printf("Two Cars\n");
 			break;
-		
+
 		case 3:
 			printf("Three Cars\n");
 			break;
-		
+
 		default:
 			printf("No Cars\n");
 			break;
